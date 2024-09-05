@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @India2030
-- 👀 I’m interested in learning about new tech
+- 👀 I’m here for ideas
 
 <!---
 India2030/India2030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
